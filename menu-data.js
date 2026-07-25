@@ -90,7 +90,7 @@ const MENU_DATA = {
     },
     {
       id: "n3",
-      name: "Egg Curry(2 Eggs)",
+      name: "Egg Curry",
       description: "Boiled eggs simmered in a lightly spiced curry",
       price: 120,
       unit: "per plate",
@@ -100,7 +100,7 @@ const MENU_DATA = {
     },
     {
       id: "n4",
-      name: "Fish Fry(2 pieces)",
+      name: "Fish Fry",
       description: "Fresh fish marinated with homemade spices and fried until crispy.",
       price: 220,
       unit: "per plate",
